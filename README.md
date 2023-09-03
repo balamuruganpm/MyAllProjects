@@ -5,6 +5,7 @@
 ## List
 
 1. **[Netflix Clone](https://github.com/balamuruganpm/Netflix-Clone)**
+2. **[Max Audio](https://github.com/balamuruganpm/MaxAudio)**
 
 # Projects
 > **[Balamurugan.rf.gd](https://balamurugan.rf.gd)**
