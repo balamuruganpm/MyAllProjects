@@ -2,7 +2,7 @@
 
 > My Projects are stored in Here 💌
 
-## List
+## List of my Works
 
 > **[Netflix Clone](https://github.com/balamuruganpm/Netflix-Clone)**
 > 
