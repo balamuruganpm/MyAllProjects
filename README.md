@@ -10,7 +10,7 @@
 > 
 > **[E-Commerce Welsite](https://github.com/balamuruganpm/lipstick_ECommerce)**
 > 
-> **[Landing Page Of Education]()**
+> **[Landing Page Of Education](https://github.com/balamuruganpm/Landing_Education)**
 > 
 > **[Max Audio](https://github.com/balamuruganpm/MaxAudio)**
 
