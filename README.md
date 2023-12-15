@@ -4,7 +4,9 @@
 
 ## List of my Works
 
-> **[Netflix Clone](https://github.com/balamuruganpm/Netflix-Clone)**
+> **[Uber.com Clone](https://github.com/balamuruganpm/UberClone)**
+>
+> **[Netflix.com Clone](https://github.com/balamuruganpm/Netflix-Clone)**
 > 
 > **[Register & Login](https://github.com/balamuruganpm/Register_Login_Welcome)**
 > 
@@ -16,9 +18,7 @@
 
 # OnGoing 
 
-> **Symposiyum Website For Our College**
-> 
-> **Water Supply Mapping & monitoring+tracking (Real Time)**
+> **Symposium Website For Our College**
 > 
 > **Complete Website For Our College**
 
